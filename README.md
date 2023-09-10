@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm changm1n</h1>
 <h3 align="center">Have a great day!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=changm1n&label=Profile%20views&color=0e75b6&style=flat" alt="changm1n" /> </p>
-
 - 🌱 I’m currently learning **Spring,Mysql**
 
 <h3 align="left">Connect with me:</h3>
