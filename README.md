@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm changm1n</h1>
 <h3 align="center">Have a great day!</h3>
 
-- 🌱 I’m currently learning **Spring,Mysql**
+- 🌱 I’m currently learning **Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
