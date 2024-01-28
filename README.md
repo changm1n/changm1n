@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm changm1n</h1>
-<h3 align="center">안녕하세용</h3>
+<h3 align="center">안녕하세요.</h3>
 
 - 🌱 I’m currently learning **Spring**
 
