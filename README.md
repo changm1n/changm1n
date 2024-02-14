@@ -10,10 +10,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
   ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=changm1n&show_icons=true&locale=en&layout=compact" alt="changm1n" /></p>
 
